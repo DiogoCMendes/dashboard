@@ -1,3 +1,2 @@
 
-web gunicorn app:server
-$ heroku local
+web: gunicorn app:server
