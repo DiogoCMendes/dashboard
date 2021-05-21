@@ -4,13 +4,6 @@ Created on Wed May 12 22:48:11 2021
 
 @author: Diogo
 """
-#FAZER MENUZINHO COM AS OPÇOES
-#data exploration,      ainda nao sei        [NAO ESTÁ FEITO]
-#clustering,          fazer com radio    [done]            
-#feature selection,         em principio nada      [done]
-#regression    fazer com dropdown          [done]
-#os dropdown são os que têm a barra
-#os de radio items  são os pontos 
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
